@@ -48,6 +48,12 @@ A collection of resourses to help you learn CSS and become a pro.
 
 # Games 
 
+* [Flexbox Froggy](https://flexboxfroggy.com/): in this game, you must bring the frogs home to their lilypads by mastering CSS flexbox, a powerful new module ...
+* [CSS Diner](https://flukeout.github.io/): a very nice place to let you learn CSS very fast. Simply just complete all 32 challenges and make sure you understand the intuition.
+* [CSS Speedrun](https://css-speedrun.netlify.app/): a small fun app to test your CSS knowledge. Find the correct CSS selectors for the 10 puzzles as fast as possible.
+* [Grid Attack](https://codingfantasy.com/games/css-grid-attack): learn css grid in a fun and interesting way by playing css coding game where you have to defeat elves from evil monsters!
+* [Flexbox Zombies](https://mastery.games/flexboxzombies/): in this game you control a Hoodie character with a crossbow, using Flexbox code. The goal is to learn Flexbox in order to survive the onslaught of zombies.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 # Tools
