@@ -2,7 +2,7 @@
 
 A collection of resourses to help you learn CSS and become a pro.
 
-## Table of Contents
+# Table of Contents
 
 * [Websites](##Website)
 * [Blogs](##Blog)
