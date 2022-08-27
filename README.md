@@ -17,7 +17,7 @@ A collection of resourses to help you learn CSS and become a pro.
 * [web.dev](https://web.dev/learn/css/): take advantage of the latest modern technologies to build amazing web experiences for everyone.
 * [w3schools](https://www.w3schools.com/css/): free Tutorials with Examples of HTML, CSS, Bootstrap,...
 * [CSS Reference](https://cssreference.io/): is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and    animated examples.
-
+* [CSS Layout](https://csslayout.io/): a website that collects popular layouts designed with CSS to help you easily choose the design for your website.
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 # Blog
@@ -61,6 +61,10 @@ A collection of resourses to help you learn CSS and become a pro.
 
 * [Clippy](https://bennettfeely.com/clippy/): is an online tool that allows you to set CSS clip path properties for web pages.
 * [Keyframes CSS](https://keyframes.app/animate/): make it possible to create basic to advanced movements with CSS keyframes.
+* [CSS Grid Generator](https://cssgrid-generator.netlify.app/):  a tool that helps you create grids in CSS easily by entering the information provided by     the tool.
+* [Color contrast checker](https://polypane.app/color-contrast/#fg=%23107db5&bg=%23fff&level=aa&format=rgb): a web app that helps you check the contrast     between two colours in web design.
+* [Trianglify](https://trianglify.io/): an online tool that helps you create a beautiful background for your website.
+
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
