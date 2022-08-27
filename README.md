@@ -59,5 +59,8 @@ A collection of resourses to help you learn CSS and become a pro.
 
 # Tools
 
+* [Clippy](https://bennettfeely.com/clippy/): is an online tool that allows you to set CSS clip path properties for web pages.
+* [Keyframes CSS](https://keyframes.app/animate/): make it possible to create basic to advanced movements with CSS keyframes.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
