@@ -18,6 +18,7 @@ A collection of resourses to help you learn CSS and become a pro.
 * [w3schools](https://www.w3schools.com/css/): free Tutorials with Examples of HTML, CSS, Bootstrap,...
 * [CSS Reference](https://cssreference.io/): is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and    animated examples.
 * [CSS Layout](https://csslayout.io/): a website that collects popular layouts designed with CSS to help you easily choose the design for your website.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 # Blog
@@ -36,6 +37,11 @@ A collection of resourses to help you learn CSS and become a pro.
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 # Channels
+
+* [Kevin Powell](https://www.youtube.com/kepowob):
+* [The Net Ninja](https://www.youtube.com/c/TheNetNinja): 
+
+
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -64,7 +70,8 @@ A collection of resourses to help you learn CSS and become a pro.
 * [CSS Grid Generator](https://cssgrid-generator.netlify.app/):  a tool that helps you create grids in CSS easily by entering the information provided by     the tool.
 * [Color contrast checker](https://polypane.app/color-contrast/#fg=%23107db5&bg=%23fff&level=aa&format=rgb): a web app that helps you check the contrast     between two colours in web design.
 * [Trianglify](https://trianglify.io/): an online tool that helps you create a beautiful background for your website.
-
+* [CSS Filter](https://www.cssfilters.co/): helps you design colours for image objects in your website using the filter property of CSS.
+* [Responsively](https://responsively.app/): tool makes it possible to check the visibility of your website on multiple devices at the same time.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
