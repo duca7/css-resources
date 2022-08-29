@@ -19,6 +19,7 @@ A collection of resourses to help you learn CSS and become a pro.
 # Website
 
 * [mdn](https://developer.mozilla.org/en-US/docs/Learn/CSS): provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
+* [freeCodeCamp](https://www.freecodecamp.org/): to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely ...
 * [web.dev](https://web.dev/learn/css/): take advantage of the latest modern technologies to build amazing web experiences for everyone.
 * [w3schools](https://www.w3schools.com/css/): free Tutorials with Examples of HTML, CSS, Bootstrap,...
 * [CSS Reference](https://cssreference.io/): is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and    animated examples.
@@ -43,10 +44,13 @@ A collection of resourses to help you learn CSS and become a pro.
 
 # Channels
 
-* [Kevin Powell](https://www.youtube.com/kepowob):
-* [The Net Ninja](https://www.youtube.com/c/TheNetNinja): 
-
-
+* [Kevin Powell](https://www.youtube.com/kepowob)
+* [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+* [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
+* [Web Conferences Amsterdam](https://www.youtube.com/c/WebConferencesAmsterdam)
+* [CSS-Tricks](https://www.youtube.com/user/realcsstricks)
+* [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers)
+* [DesignCourse](https://www.youtube.com/c/DesignCourse)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
