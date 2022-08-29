@@ -56,6 +56,8 @@ A collection of resourses to help you learn CSS and become a pro.
 
 # Courses
 
+* [Introduction to CSS3](https://www.coursera.org/learn/introcss?action=enroll): one of the very useful courses. really helped me a lot to understand       basics to learn how to create transitions
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 # Books
