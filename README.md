@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./assets/img/css-document.png" width="200" alt="CSS Docs">
+</p>
+
 # CSS Resourses
 
 A collection of resourses to help you learn CSS and become a pro.
