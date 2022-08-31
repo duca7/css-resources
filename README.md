@@ -25,6 +25,8 @@ A collection of resourses to help you learn CSS and become a pro.
 * [CSS Reference](https://cssreference.io/): is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and    animated examples.
 * [CSS Layout](https://csslayout.io/): a website that collects popular layouts designed with CSS to help you easily choose the design for your website.
 * [Can I use](https://caniuse.com/): up-to-date browser support tables for front-end technologies on desktop and mobile browsers.
+* [CSS Layout](https://csslayout.io/): a website that collects popular layouts designed with CSS to help you easily choose the design for your website.
+* [Can I use](https://caniuse.com/): up-to-date browser support tables for front-end technologies on desktop and mobile browsers.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
