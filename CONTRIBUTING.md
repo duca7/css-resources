@@ -17,3 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 Thank you for your suggestions!
 
 ## Updating Your Pull Request
+
+1. Clone this project for your repository.
+2. Update Readme.md and then create new pull request.
+3. I will reviews and merge your pull request.
