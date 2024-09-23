@@ -39,6 +39,7 @@ A collection of resourses to help you learn CSS and become a pro.
 * [Defensive CSS](https://defensivecss.dev/): practical CSS and design tips that helps in building future-proof user interfaces.
 * [DWB](https://davidwalsh.name/tutorials/css): 
 * [Chrome Developer](https://developer.chrome.com/tags/css/): articles at this page write by google engineer.
+* [CSS Weekly](https://css-weekly.com/archives/): CSS Weekly is a newsletter that helps developers keep up with the latest news in CSS.
 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -84,6 +85,8 @@ A collection of resourses to help you learn CSS and become a pro.
 * [Trianglify](https://trianglify.io/): an online tool that helps you create a beautiful background for your website.
 * [CSS Filter](https://www.cssfilters.co/): helps you design colours for image objects in your website using the filter property of CSS.
 * [Responsively](https://responsively.app/): tool makes it possible to check the visibility of your website on multiple devices at the same time.
+* [TinyPNG](https://tinypng.com/): Optimizing your images with the TinyPNG algorithm brings several benefits to your website. 
+
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
